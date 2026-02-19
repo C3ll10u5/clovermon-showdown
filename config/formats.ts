@@ -1399,7 +1399,7 @@ export const Formats: FormatList = [
             'Libero', 'Moody', 'Neutralizing Gas', 'Parental Bond', 'Poison Heal', 'Power Construct', 'Protean', 'Pure Power', 'Shadow Tag', 'Simple', 'Stakeout', 'Speed Boost',
             'Water Bubble', 'Wonder Guard', 
             'Boundary', 'Brain Power', 'Collapsing Ruin', 'Degradation', 'Flare Heal', 'Frozen Bunker', 'Horror', 'Inversion', 'Old School', 'Overeager', 'Shaved Ice', 'Suddenly', 
-            'Pressure Fuzed', 'Puppeteer', 'Transfusion', 
+            'Pressure Fuzed', 'Puppeteer', 'Transfusion', 'Second Shadow',
             'Baton Pass', 'Extreme Speed', 
         ],
 		unbanlist: [
