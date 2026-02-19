@@ -126,10 +126,6 @@ export const Abilities: {[k: string]: ModdedAbilityData} = {
 		inherit: true,
 		isNonstandard: null,
 	},
-	overeagerest: {
-		inherit: true,
-		isNonstandard: null,
-	},
 	swarming: {
 		inherit: true,
 		isNonstandard: null,
