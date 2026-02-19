@@ -113,7 +113,7 @@ export const Abilities: {[k: string]: ModdedAbilityData} = {
 	},
 	bigguy: {
 		inherit: true,
-		isNonstandard: "Past",,
+		isNonstandard: "Past",
 	},
 	bonezone: {
 		inherit: true,
