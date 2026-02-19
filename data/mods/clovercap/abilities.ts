@@ -97,6 +97,68 @@ export const Abilities: {[k: string]: ModdedAbilityData} = {
 		inherit: true,
 		isNonstandard: null,
 	},
+
+	/* disabled clover abilities */ 
+	adminabuse: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	anability: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	anyability: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	bigguy: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	bonezone: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	flareheal: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	waitforit: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	woke: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	woodenguard: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	jihad: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	phantasma: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	shitstorm: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	fuku: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	stinkbomb: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
+	whiteflames: {
+		inherit: true,
+		isNonstandard: "Past",
+	},
 	/* Clover CAP Abilities */
 	oldschool: {
 		inherit: true,
@@ -123,10 +185,6 @@ export const Abilities: {[k: string]: ModdedAbilityData} = {
 		isNonstandard: null,
 	},
 	overeager: {
-		inherit: true,
-		isNonstandard: null,
-	},
-	overeagerest: {
 		inherit: true,
 		isNonstandard: null,
 	},
