@@ -25568,7 +25568,8 @@ nightdaze: ["8E"],
 		},
 		camerex: {
 			learnset: {
-	bite: ["8L1"],
+spotlight: ["8L1"],
+bite: ["8L1"],
 charge: ["8L1, 8E"],
 thundershock: ["8L1"],
 flash: ["8L1, 8T"],
