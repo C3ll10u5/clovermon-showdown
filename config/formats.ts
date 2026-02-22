@@ -1387,6 +1387,25 @@ export const Formats: FormatList = [
 		ruleset: ['Terastal Clause', 'Obtainable', 'Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Endless Battle Clause', 'Sketch Post-Gen 7 Moves', 'Dynamax Clause'],
 	},
 	{
+		name: '[Gen 8 Clover CAP Only] Almost Any Ability',
+		desc: `Pok&eacute;mon have access to almost any ability.`,
+		mod: 'clovercap',
+		searchShow: false,
+		rated: false,
+		ruleset: ['Terastal Clause', 'Sketch Post-Gen 7 Moves', 'Obtainable', '!Obtainable Abilities', 'Species Clause', 'Ability Clause = 2', 'OHKO Clause', 'Evasion Moves Clause', 'Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Dynamax Clause', 'Sleep Clause Mod', 'Endless Battle Clause'],
+		banlist: [
+            'Uber', 'Regigigone', 'Spenjbab', 'Wawho', 
+            'Arena Trap', 'Comatose', 'Contrary', 'Fluffy', 'Fuk U', 'Fur Coat', 'Gorilla Tactics', 'Huge Power', 'Ice Scales', 'Illusion', 'Imposter', 'Innards Out', 'Intrepid Sword',
+            'Libero', 'Moody', 'Neutralizing Gas', 'Parental Bond', 'Poison Heal', 'Power Construct', 'Protean', 'Pure Power', 'Shadow Tag', 'Simple', 'Stakeout', 'Speed Boost',
+            'Water Bubble', 'Wonder Guard', 
+            'Boundary', 'Brain Power', 'Collapsing Ruin', 'Degradation', 'Flare Heal', 'Frozen Bunker', 'Horror', 'Inversion', 'Old School', 'Overeager', 'Shaved Ice', 'Suddenly', 
+            'Pressure Fuzed', 'Puppeteer', 'Transfusion', 'Second Shadow',
+            'Baton Pass', 'Extreme Speed', 
+        ],
+		unbanlist: [
+			'Copolar-Male'],
+	},
+	{
 		name: '[Gen 8 Clover CAP Only] Doubles OU',
 		rated: false,
 		mod: 'clovercap',
