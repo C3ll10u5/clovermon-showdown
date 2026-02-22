@@ -484,7 +484,6 @@ export const Learnsets: {[k: string]: LearnsetData} = {
       bodyslam: ["8T"],
       braindamage: ["8T"],
       brickbreak: ["8M"],
-      brightpowder: [],
       bulkup: ["8M"],
       bulldoze: ["8T"],
       bulletpunch: ["8E"],
