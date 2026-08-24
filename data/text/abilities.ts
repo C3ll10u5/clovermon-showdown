@@ -2652,10 +2652,6 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 		name: "Fragile",
 		shortDesc: "This Pokemon HP is set to 1 whenever it is hit. Prevents the User from Healing",
 		},
-	philosopher: {
-		name: "Philosopher",
-		shortDesc: "Priority on different typings depending on the turn.",
-	},
 	blueblood: {
 		name: "Blue Blood",
 		shortDesc: "This Pokemon's Attack is raised by 12 stages after it is damaged by a Dark-type move.",
