@@ -274,6 +274,7 @@ waterfall: ["8L1"],
 watergun: ["8L1"],
 waterpulse: ["8L1"],
 inkjet: ["8L1"],
+rest: ["8L1"],
             },
 }, 
 stallter: {
