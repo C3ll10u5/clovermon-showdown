@@ -1793,10 +1793,10 @@ export const Moves: { [k: string]: ModdedMoveData } = {
 	tropkick: {
 		inherit: true,
 		basePower: 85,
-		},
+	},
 	blazekick: {
 		inherit: true,
-		basePower: 85,
+		accuracy: 100,
 	},
 	meteorhammer: {
 		inherit: true,
