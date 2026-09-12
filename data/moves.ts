@@ -77313,7 +77313,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	},
 	bunrakublade: {
         num: 0,
-        accuracy: 90,
+        accuracy: 100,
         basePower: 50,
         category: "Physical",
         name: "Bunraku Blade",
