@@ -39710,7 +39710,7 @@ amygdas: {
 		name: "Amygdas",
 		types: ["Psychic", "Normal"],
 		genderRatio: {M: 0.5, F: 0.5},
-		baseStats: {hp: 86, atk: 62, def: 95, spa: 87, spd: 95, spe: 40},
+		baseStats: {hp: 76, atk: 62, def: 95, spa: 87, spd: 95, spe: 40},
 		abilities: {0: "Psychic Surge", 1: "Synchronize", H: "Overcoat", S: "Colossus"}, 
 		heightm: 1.8,
 		weightkg: 88.1,
